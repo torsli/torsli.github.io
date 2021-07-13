@@ -1,4 +1,4 @@
-# David Thorsley
+Lorem ipsum
 # Publications
 ## AI, Robotics & Machine Learning
 * S. Kim, S. Shen, **D. Thorsley**, A. Gholami, J. Hassoun, and K. Keutzer, "Learned Token Pruning for Transformers", arXiV preprint, July 2021.
