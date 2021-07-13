@@ -1,3 +1,5 @@
+# David Thorsley
+# Publications
 ## AI, Robotics & Machine Learning
 * S. Kim, S. Shen, **D. Thorsley**, A. Gholami, J. Hassoun, and K. Keutzer, "Learned Token Pruning for Transformers", arXiV preprint, July 2021.
 * J. Fang, A. Shafiee, H. Abdel-Aziz, **D. Thorsley**, G. Georgiadis, and J.H. Hassoun, "Post-training Piecewise Linear Quantization for Deep Neural Networks." In Proceedings on the 2020 European Conference on Computer Vision, August 2020.
