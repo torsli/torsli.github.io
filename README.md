@@ -1,6 +1,6 @@
 Lorem ipsum
 # Publications
-Metrics and citations can be found at [Google Scholar](https://scholar.google.com/citations?user=En4wZacAAAAJ).
+Metrics and citations are at [Google Scholar](https://scholar.google.com/citations?user=En4wZacAAAAJ).
 ## AI, Robotics & Machine Learning
 * S. Kim, S. Shen, **D. Thorsley**, A. Gholami, J. Hassoun, and K. Keutzer, [Learned Token Pruning for Transformers](https://arxiv.org/abs/2107.00910). arXiV preprint, July 2021.
   
