@@ -1,5 +1,4 @@
-![LinkedIn](assets/LI-In-Bug.png)
-
+[![LinkedIn](assets/LI-In-Bug.png)](https://www.linkedin.com/in/david-thorsley/)
 # Publications
 Metrics and citations are at [Google Scholar](https://scholar.google.com/citations?user=En4wZacAAAAJ).
 ## AI, Robotics & Machine Learning
