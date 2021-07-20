@@ -1,7 +1,21 @@
 [![LinkedIn](assets/LI-In-Bug.png)](https://www.linkedin.com/in/david-thorsley/)  [![Google Scholar](assets/google-scholar.png)](https://scholar.google.com/citations?user=En4wZacAAAAJ) 
 
+Interested in machine learning, optimization, neural networks, and a lot of other things!
+
+# Workplaces
+
+| Employer | Role |  Dates |
+|---|---|---|
+| [Samsung Semiconductor, Inc.](https://samsungsemiconductor-us.com/) | Deep Learning Engineer / Research Scientist | 2019-present| 
+| [Mythic AI](https://www.mythic-ai.com/) | Software Engineer (Neural Network Co-Design)| 2017-2019 |
+| [Quantcast](https://www.quantcast.com/) | Software Engineer | 2016-2017 |
+| [Teradata Aster](https://www.asterdata.com/) | Analytics Engineer | 2014-2016|
+| [Immunetrics](https://www.immunetrics.com/) | Mathematical Modeling | 2013-2014|
+| [Henry M. Jackson Foundation](https://www.hjf.org/) | Research Scientist | 2010-2013 |
+| [University of Washington](https://www.washington.edu/) | Postdoctoral Scholar | 2006-2010 |
+
 # Publications
-Metrics and citations are at [Google Scholar](https://scholar.google.com/citations?user=En4wZacAAAAJ).
+
 ## AI, Robotics & Machine Learning
 * S. Kim, S. Shen, **D. Thorsley**, A. Gholami, J. Hassoun, and K. Keutzer, [Learned Token Pruning for Transformers](https://arxiv.org/abs/2107.00910). arXiV preprint, July 2021.
   
