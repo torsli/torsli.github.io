@@ -17,7 +17,7 @@ Interested in machine learning, optimization, neural networks, and a lot of othe
 # Publications
 
 ## AI, Robotics & Machine Learning
-* S. Kim, S. Shen, **D. Thorsley**, A. Gholami, J. Hassoun, and K. Keutzer, [Learned Token Pruning for Transformers](https://arxiv.org/abs/2107.00910). arXiV preprint, July 2021.
+* S. Kim, S. Shen, **D. Thorsley**, A. Gholami, W. Kwon, J. Hassoun, and K. Keutzer, [Learned Token Pruning for Transformers](https://dl.acm.org/doi/abs/10.1145/3534678.3539260). In _KDD '22: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining_, August 2022.
   
 
 * J. Fang, A. Shafiee, H. Abdel-Aziz, **D. Thorsley**, G. Georgiadis, and J.H. Hassoun, [Post-training Piecewise Linear Quantization for Deep Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-58536-5_5). In _Proceedings on the 2020 European Conference on Computer Vision_, August 2020.
@@ -89,3 +89,19 @@ Interested in machine learning, optimization, neural networks, and a lot of othe
   
 
 * **D. Thorsley** and D. Teneketzis. “Failure Diagnosis of Stochastic Automata.” In _Proceedings of the 14th International Workshop on the Principles of Diagnosis (DX-03)_, pp. 131–137, June 2003.
+
+# Unpublished (yet available)
+
+* L. Li, **D. Thorsley** and J. Hassoun. [SaiT: Sparse Vision Transformers through Adaptive Token Pruning](https://arxiv.org/abs/2210.05832). Available on arXiv, October 2022.
+
+* J. Fang, L. Yang, C. Shen, H. Abdel-Aziz, **D. Thorsley** and J. Hassoun. [Fast and Efficient Once-For-All Networks for Diverse Hardware Deployment](https://openreview.net/pdf?id=ErsRrojuPzw ). Available on OpenReview, 2021.
+
+# Patents and Disclosures
+
+* [Piecewise Quantization for Neural Networks](https://patents.google.com/patent/US20210133278A1/en)
+
+* [Learned threshold token pruning for transformer neural networks](https://patents.google.com/patent/US20220374766A1/en)
+
+* [Method for sparsification of feature maps in self-attention mechanisms](https://patents.google.com/patent/US20230028226A1/en)
+
+* [Shrink DARTS](https://www.freepatentsonline.com/y2023/0038891.html)
