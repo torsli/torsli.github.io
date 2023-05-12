@@ -1,6 +1,6 @@
 [![LinkedIn](assets/LI-In-Bug.png)](https://www.linkedin.com/in/david-thorsley/)  [![Google Scholar](assets/google-scholar.png)](https://scholar.google.com/citations?user=En4wZacAAAAJ) 
 
-Interested in machine learning, optimization, neural networks, and a lot of other things!
+Interested in machine learning, optimization, deep neural networks, data science, and a lot of other things! I've worked on mathematical modeling and optimization in domains such as language models, computer vision, physiology, and cell biology.
 
 # Workplaces
 
@@ -14,44 +14,27 @@ Interested in machine learning, optimization, neural networks, and a lot of othe
 | [Henry M. Jackson Foundation](https://www.hjf.org/) | Research Scientist | 2010-2013 |
 | [University of Washington](https://www.washington.edu/) | Postdoctoral Scholar | 2006-2010 |
 
+Download a [full resume](./pubs/resume20230512.pdf), if you wish.
 # Publications
 
 ## AI, Robotics & Machine Learning
-* S. Kim, S. Shen, **D. Thorsley**, A. Gholami, W. Kwon, J. Hassoun, and K. Keutzer, [Learned Token Pruning for Transformers](https://dl.acm.org/doi/abs/10.1145/3534678.3539260). In _KDD '22: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining_, August 2022.
+* S. Kim*, S. Shen*, **D. Thorsley***, A. Gholami, W. Kwon, J. Hassoun, and K. Keutzer, [Learned Token Pruning for Transformers](https://dl.acm.org/doi/abs/10.1145/3534678.3539260). In _KDD '22: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining_, August 2022.
   
 
 * J. Fang, A. Shafiee, H. Abdel-Aziz, **D. Thorsley**, G. Georgiadis, and J.H. Hassoun, [Post-training Piecewise Linear Quantization for Deep Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-58536-5_5). In _Proceedings on the 2020 European Conference on Computer Vision_, August 2020.
   * [Related patent pending](https://patents.google.com/patent/US20210133278A1/en)  
-
+  
 
 * N. Napp, **D. Thorsley**, and E. Klavins, [Hidden Markov Models for non-Well-Mixed Reaction Networks](https://ieeexplore.ieee.org/abstract/document/5160103). In _Proceedings of the 2009 American Control Conference_, pp. 737-744, June 2009.
 
-## Synthetic Biology & Physiology
-* M.Y. Khitrov, S. Laxminarayan, **D. Thorsley**, S. Ramakrishnan, S. Rajaraman, N.J. Wesensten, et al., [PC-PVT: A Platform for Psychomotor Vigilance Task Testing, Analysis, and Prediction](https://link.springer.com/article/10.3758/s13428-013-0339-9) _Behavioral Research Methods_ 46 (1), pp. 140-147, March 2014.
-  
+### Unpublished (available online)
 
-* P. Rajdev, **D. Thorsley**, S. Rajaraman, T.L. Rupp, N.J. Wesensten, T.J. Balkin, et al., [A Unified Mathematical Model to Quantify Performance Impairment for Both Chronic Sleep Restriction and Total Sleep Deprivation](https://www.sciencedirect.com/science/article/pii/S0022519313001811). _Journal of Theoretical Biology_, 331 (1) pp. 66-77, August 2013.
-  
+* L. Li, **D. Thorsley** and J. Hassoun. [SaiT: Sparse Vision Transformers through Adaptive Token Pruning](https://arxiv.org/abs/2210.05832). Available on arXiv, October 2022.
 
-* S. Rajaraman, S. Ramakrishnan, **D. Thorsley**, T.L. Rupp, N.J. Wesensten, T.J. Balkin, et al., [A New Metric for Quantifying Performance Impairment on the Psychomotor Vigilance Test](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2869.2012.01008.x). _Journal of Sleep Research_, 21 (6) pp. 659-674, December 2012.
-  
 
-* **D. Thorsley**, R. Leproult, K. Spiegel, et al., [A Phenomenological Model for Circadian and Sleep Allostatic Modulation of Plasma Cortisol Concentration](https://journals.physiology.org/doi/full/10.1152/ajpendo.00271.2012). _American Journal of Physiology – Endocrinology and Metabolism_, 303 (10), pp. E1190-E1201, November 15, 2012.
-  
+* J. Fang, L. Yang, C. Shen, H. Abdel-Aziz, **D. Thorsley** and J. Hassoun. [Fast and Efficient Once-For-All Networks for Diverse Hardware Deployment](https://openreview.net/pdf?id=ErsRrojuPzw ). Available on OpenReview, 2021.
 
-* **D. Thorsley** and E. Klavins, [Estimation and Discrimination of Stochastic Biochemical Circuits From Time-Lapse Microscopy Data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047151). _PLOS ONE_, November 6, 2012. doi:10.1371/journal.pone.0047151. Featured in PLOS Collections: Synthetic Biology.
-  
 
-* S. Ramakrishnan, S. Laxminarayan, **D. Thorsley**, N.J. Wesensten, T.J. Balkin, et al., [Individualized Performance Prediction During Total Sleep Deprivation: Accounting for Trait Vulnerability to Sleep Loss](https://ieeexplore.ieee.org/abstract/document/6347257) In _Proceedings of the 34th Annual Conference of the IEEE Engineering in Medicine & Biology Society_, pp. 5574-5577, August 2012.
-  
-
-* **D. Thorsley** and E. Klavins, [Approximating Stochastic Biochemical Processes With Wasserstein Pseudometrics](https://digital-library.theiet.org/content/journals/10.1049/iet-syb.2009.0039). _IET Systems Biology_, 4 (3), pp. 193-211, May 2010.
-  
-
-* **D. Thorsley** and E. Klavins, “A Theory of Approximation for Stochastic Biochemical Networks,” P. Iglesias and B. Ingalls, eds., [Control Theory and Systems Biology](https://mitpress.mit.edu/books/control-theory-and-systems-biology), MIT Press, pp. 243-264, 2009.
-  
-
-* **D. Thorsley** and E. Klavins. [Model Reduction of Stochastic Processes Using Wasserstein Pseudometrics](https://ieeexplore.ieee.org/abstract/document/4586684). In _Proceedings of the 2008 American Control Conference_, pp. 1374-1381, June 2008.
 
 ## Control Theory & Diagnosis
 * **D. Thorsley**. [A necessary and sufficient condition for diagnosability of stochastic discrete event systems](https://link.springer.com/article/10.1007/s10626-017-0236-y). _Discrete Event Dynamic Systems: Theory and Applications_, 27 (3), pp. 481–500, September 2017.
@@ -90,17 +73,42 @@ Interested in machine learning, optimization, neural networks, and a lot of othe
 
 * **D. Thorsley** and D. Teneketzis. “Failure Diagnosis of Stochastic Automata.” In _Proceedings of the 14th International Workshop on the Principles of Diagnosis (DX-03)_, pp. 131–137, June 2003.
 
-# Unpublished (yet available)
 
-* L. Li, **D. Thorsley** and J. Hassoun. [SaiT: Sparse Vision Transformers through Adaptive Token Pruning](https://arxiv.org/abs/2210.05832). Available on arXiv, October 2022.
+## Synthetic Biology & Physiology
+* M.Y. Khitrov, S. Laxminarayan, **D. Thorsley**, S. Ramakrishnan, S. Rajaraman, N.J. Wesensten, et al., [PC-PVT: A Platform for Psychomotor Vigilance Task Testing, Analysis, and Prediction](https://link.springer.com/article/10.3758/s13428-013-0339-9) _Behavioral Research Methods_ 46 (1), pp. 140-147, March 2014.
+  
 
-* J. Fang, L. Yang, C. Shen, H. Abdel-Aziz, **D. Thorsley** and J. Hassoun. [Fast and Efficient Once-For-All Networks for Diverse Hardware Deployment](https://openreview.net/pdf?id=ErsRrojuPzw ). Available on OpenReview, 2021.
+* P. Rajdev, **D. Thorsley**, S. Rajaraman, T.L. Rupp, N.J. Wesensten, T.J. Balkin, et al., [A Unified Mathematical Model to Quantify Performance Impairment for Both Chronic Sleep Restriction and Total Sleep Deprivation](https://www.sciencedirect.com/science/article/pii/S0022519313001811). _Journal of Theoretical Biology_, 331 (1) pp. 66-77, August 2013.
+  
+
+* S. Rajaraman, S. Ramakrishnan, **D. Thorsley**, T.L. Rupp, N.J. Wesensten, T.J. Balkin, et al., [A New Metric for Quantifying Performance Impairment on the Psychomotor Vigilance Test](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2869.2012.01008.x). _Journal of Sleep Research_, 21 (6) pp. 659-674, December 2012.
+  
+
+* **D. Thorsley**, R. Leproult, K. Spiegel, et al., [A Phenomenological Model for Circadian and Sleep Allostatic Modulation of Plasma Cortisol Concentration](https://journals.physiology.org/doi/full/10.1152/ajpendo.00271.2012). _American Journal of Physiology – Endocrinology and Metabolism_, 303 (10), pp. E1190-E1201, November 15, 2012.
+  
+
+* **D. Thorsley** and E. Klavins, [Estimation and Discrimination of Stochastic Biochemical Circuits From Time-Lapse Microscopy Data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047151). _PLOS ONE_, November 6, 2012. doi:10.1371/journal.pone.0047151. Featured in PLOS Collections: Synthetic Biology.
+  
+
+* S. Ramakrishnan, S. Laxminarayan, **D. Thorsley**, N.J. Wesensten, T.J. Balkin, et al., [Individualized Performance Prediction During Total Sleep Deprivation: Accounting for Trait Vulnerability to Sleep Loss](https://ieeexplore.ieee.org/abstract/document/6347257) In _Proceedings of the 34th Annual Conference of the IEEE Engineering in Medicine & Biology Society_, pp. 5574-5577, August 2012.
+  
+
+* **D. Thorsley** and E. Klavins, [Approximating Stochastic Biochemical Processes With Wasserstein Pseudometrics](https://digital-library.theiet.org/content/journals/10.1049/iet-syb.2009.0039). _IET Systems Biology_, 4 (3), pp. 193-211, May 2010.
+  
+
+* **D. Thorsley** and E. Klavins, “A Theory of Approximation for Stochastic Biochemical Networks,” P. Iglesias and B. Ingalls, eds., [Control Theory and Systems Biology](https://mitpress.mit.edu/books/control-theory-and-systems-biology), MIT Press, pp. 243-264, 2009.
+  
+
+* **D. Thorsley** and E. Klavins. [Model Reduction of Stochastic Processes Using Wasserstein Pseudometrics](https://ieeexplore.ieee.org/abstract/document/4586684). In _Proceedings of the 2008 American Control Conference_, pp. 1374-1381, June 2008.
+
 
 # Patents and Disclosures
 
 * [Piecewise Quantization for Neural Networks](https://patents.google.com/patent/US20210133278A1/en)
 
 * [Learned threshold token pruning for transformer neural networks](https://patents.google.com/patent/US20220374766A1/en)
+
+* [System and method for training a neural network under performance and hardware constraints](https://patents.google.com/patent/US20230107658A1/en)
 
 * [Method for sparsification of feature maps in self-attention mechanisms](https://patents.google.com/patent/US20230028226A1/en)
 
