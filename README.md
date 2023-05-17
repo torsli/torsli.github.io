@@ -18,7 +18,7 @@ Download a [full resume](./pubs/resume20230512.pdf), if you wish.
 # Publications
 
 ## AI, Robotics & Machine Learning
-* S. Kim*, S. Shen*, **D. Thorsley***, A. Gholami, W. Kwon, J. Hassoun, and K. Keutzer, [Learned Token Pruning for Transformers](https://dl.acm.org/doi/abs/10.1145/3534678.3539260). In _KDD '22: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining_, August 2022.
+* S. Kim\*, S. Shen\*, **D. Thorsley**\*, A. Gholami, W. Kwon, J. Hassoun, and K. Keutzer, [Learned Token Pruning for Transformers](https://dl.acm.org/doi/abs/10.1145/3534678.3539260). In _KDD '22: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining_, August 2022.
   
 
 * J. Fang, A. Shafiee, H. Abdel-Aziz, **D. Thorsley**, G. Georgiadis, and J.H. Hassoun, [Post-training Piecewise Linear Quantization for Deep Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-58536-5_5). In _Proceedings on the 2020 European Conference on Computer Vision_, August 2020.
