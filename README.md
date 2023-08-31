@@ -14,7 +14,7 @@ Interested in machine learning, optimization, deep neural networks, data science
 | [Henry M. Jackson Foundation](https://www.hjf.org/) | Research Scientist | 2010-2013 |
 | [University of Washington](https://www.washington.edu/) | Postdoctoral Scholar | 2006-2010 |
 
-Download a [full resume](./pubs/resume20230512.pdf), if you wish.
+Download a [full resume](./pubs/resume20230831.pdf), if you wish.
 # Publications
 
 ## AI, Robotics & Machine Learning
