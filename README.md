@@ -19,6 +19,7 @@ Download a [full resume](./pubs/resume20230831.pdf), if you wish.
 
 ## AI, Robotics & Machine Learning
 * S. Kim\*, S. Shen\*, **D. Thorsley**\*, A. Gholami, W. Kwon, J. Hassoun, and K. Keutzer, [Learned Token Pruning for Transformers](https://dl.acm.org/doi/abs/10.1145/3534678.3539260). In _KDD '22: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining_, August 2022.
+  * [Related Tech Report from UC-Berkeley](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-119.pdf)
   
 
 * J. Fang, A. Shafiee, H. Abdel-Aziz, **D. Thorsley**, G. Georgiadis, and J.H. Hassoun, [Post-training Piecewise Linear Quantization for Deep Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-58536-5_5). In _Proceedings on the 2020 European Conference on Computer Vision_, August 2020.
@@ -28,6 +29,9 @@ Download a [full resume](./pubs/resume20230831.pdf), if you wish.
 * N. Napp, **D. Thorsley**, and E. Klavins, [Hidden Markov Models for non-Well-Mixed Reaction Networks](https://ieeexplore.ieee.org/abstract/document/5160103). In _Proceedings of the 2009 American Control Conference_, pp. 737-744, June 2009.
 
 ### Unpublished (available online)
+
+* R. Han, M. Zheng, S. Byna, H. Tang, B. Dong, D. Dai, Y. Chen, D. Kim, J. Hassoun, **D. Thorsley**, and M. Wolf. [PROV-IO+: A Cross-Platform Provenance Framework for Scientific Data on HPC Systems](https://arxiv.org/abs/2308.00891). Available on arXiv, August 2023.
+  
 
 * L. Li, **D. Thorsley** and J. Hassoun. [SaiT: Sparse Vision Transformers through Adaptive Token Pruning](https://arxiv.org/abs/2210.05832). Available on arXiv, October 2022.
 
@@ -103,6 +107,8 @@ Download a [full resume](./pubs/resume20230831.pdf), if you wish.
 
 
 # Patents and Disclosures
+
+* [Creating an accurate latency lookup table for NPU](https://patents.google.com/patent/US20230153569A1/en)
 
 * [Piecewise Quantization for Neural Networks](https://patents.google.com/patent/US20210133278A1/en)
 
