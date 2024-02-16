@@ -15,6 +15,7 @@ Interested in machine learning, optimization, deep neural networks, data science
 | [University of Washington](https://www.washington.edu/) | Postdoctoral Scholar | 2006-2010 |
 
 Download a [full resume](./pubs/resume20240215.pdf), if you wish.
+
 # Publications
 
 ## AI, Robotics & Machine Learning
