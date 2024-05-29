@@ -4,15 +4,16 @@ Interested in machine learning, optimization, deep neural networks, data science
 
 # Workplaces
 
-| Employer | Role | Dates     |
-|---|---|-----------|
-| [Samsung Semiconductor, Inc.](https://samsungsemiconductor-us.com/) | Deep Learning Engineer / Research Scientist | 2019-2024 | 
-| [Mythic AI](https://www.mythic-ai.com/) | Software Engineer (Neural Network Co-Design)| 2017-2019 |
-| [Quantcast](https://www.quantcast.com/) | Software Engineer | 2016-2017 |
-| [Teradata Aster](https://www.asterdata.com/) | Analytics Engineer | 2014-2016 |
-| [Immunetrics](https://www.immunetrics.com/) | Mathematical Modeling | 2013-2014 |
-| [Henry M. Jackson Foundation](https://www.hjf.org/) | Research Scientist | 2010-2013 |
-| [University of Washington](https://www.washington.edu/) | Postdoctoral Scholar | 2006-2010 |
+| Employer                                                         | Role                                         | Dates  |
+|------------------------------------------------------------------|----------------------------------------------|--------|
+| [NVIDIA](https://www.nvidia.com/)                                | Deep Learning Algorithm Engineer             | 2024-  |
+| [Samsung Semiconductor, Inc.](https://samsungsemiconductor-us.com/) | Deep Learning Engineer / Research Scientist  | 2019-2024 |
+| [Mythic AI](https://www.mythic-ai.com/)                          | Software Engineer (Neural Network Co-Design) | 2017-2019 |
+| [Quantcast](https://www.quantcast.com/)                          | Software Engineer                            | 2016-2017 |
+| [Teradata Aster](https://www.asterdata.com/)                     | Analytics Engineer                           | 2014-2016 |
+| [Immunetrics](https://www.immunetrics.com/)                      | Mathematical Modeling                        | 2013-2014 |
+| [Henry M. Jackson Foundation](https://www.hjf.org/)              | Research Scientist                           | 2010-2013 |
+| [University of Washington](https://www.washington.edu/)          | Postdoctoral Scholar                         | 2006-2010 |
 
 Download a [full resume](./pubs/resume20240215.pdf), if you wish.
 # Publications
