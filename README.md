@@ -109,6 +109,8 @@ Download a [full resume](./pubs/resume20240215.pdf), if you wish.
 
 # Patents and Disclosures
 
+* [Systems and methods for matrix operation selector based on machine learning](https://patents.google.com/patent/US20240211533A1/en)
+
 * [Creating an accurate latency lookup table for NPU](https://patents.google.com/patent/US20230153569A1/en)
 
 * [Piecewise Quantization for Neural Networks](https://patents.google.com/patent/US20210133278A1/en)
